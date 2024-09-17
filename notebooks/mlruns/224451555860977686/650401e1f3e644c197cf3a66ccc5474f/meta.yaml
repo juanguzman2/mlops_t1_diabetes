@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Desktop/t1_intro_ml/riesgo_diabetes/notebooks/mlruns/224451555860977686/650401e1f3e644c197cf3a66ccc5474f/artifacts
+end_time: 1726539190935
+entry_point_name: ''
+experiment_id: '224451555860977686'
+lifecycle_stage: active
+run_id: 650401e1f3e644c197cf3a66ccc5474f
+run_name: Decision Tree Classifier
+run_uuid: 650401e1f3e644c197cf3a66ccc5474f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726539190608
+status: 3
+tags: []
+user_id: Juan Guzman

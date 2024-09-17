@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Desktop/t1_intro_ml/riesgo_diabetes/notebooks/mlruns/224451555860977686/09b997da25b14f5ea7de94681e511d50/artifacts
+end_time: 1726539194728
+entry_point_name: ''
+experiment_id: '224451555860977686'
+lifecycle_stage: active
+run_id: 09b997da25b14f5ea7de94681e511d50
+run_name: SVM - Linear Kernel
+run_uuid: 09b997da25b14f5ea7de94681e511d50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726539194394
+status: 3
+tags: []
+user_id: Juan Guzman

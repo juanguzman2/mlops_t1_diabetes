@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Desktop/t1_intro_ml/riesgo_diabetes/notebooks/mlruns/224451555860977686/0cf7459a63284efb9bfa995639a4b95c/artifacts
+end_time: 1726539192548
+entry_point_name: ''
+experiment_id: '224451555860977686'
+lifecycle_stage: active
+run_id: 0cf7459a63284efb9bfa995639a4b95c
+run_name: Ridge Classifier
+run_uuid: 0cf7459a63284efb9bfa995639a4b95c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726539192176
+status: 3
+tags: []
+user_id: Juan Guzman

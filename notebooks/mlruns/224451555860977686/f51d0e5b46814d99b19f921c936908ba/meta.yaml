@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Desktop/t1_intro_ml/riesgo_diabetes/notebooks/mlruns/224451555860977686/f51d0e5b46814d99b19f921c936908ba/artifacts
+end_time: 1726539194191
+entry_point_name: ''
+experiment_id: '224451555860977686'
+lifecycle_stage: active
+run_id: f51d0e5b46814d99b19f921c936908ba
+run_name: Quadratic Discriminant Analysis
+run_uuid: f51d0e5b46814d99b19f921c936908ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726539193875
+status: 3
+tags: []
+user_id: Juan Guzman

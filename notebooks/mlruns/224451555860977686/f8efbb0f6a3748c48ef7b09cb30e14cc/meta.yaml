@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Desktop/t1_intro_ml/riesgo_diabetes/notebooks/mlruns/224451555860977686/f8efbb0f6a3748c48ef7b09cb30e14cc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '224451555860977686'
+lifecycle_stage: active
+run_id: f8efbb0f6a3748c48ef7b09cb30e14cc
+run_name: Session Initialized 2409
+run_uuid: f8efbb0f6a3748c48ef7b09cb30e14cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726539154242
+status: 1
+tags: []
+user_id: Juan Guzman

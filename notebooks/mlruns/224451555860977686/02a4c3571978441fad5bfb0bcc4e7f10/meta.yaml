@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Desktop/t1_intro_ml/riesgo_diabetes/notebooks/mlruns/224451555860977686/02a4c3571978441fad5bfb0bcc4e7f10/artifacts
+end_time: 1726539195202
+entry_point_name: ''
+experiment_id: '224451555860977686'
+lifecycle_stage: active
+run_id: 02a4c3571978441fad5bfb0bcc4e7f10
+run_name: Dummy Classifier
+run_uuid: 02a4c3571978441fad5bfb0bcc4e7f10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726539194928
+status: 3
+tags: []
+user_id: Juan Guzman

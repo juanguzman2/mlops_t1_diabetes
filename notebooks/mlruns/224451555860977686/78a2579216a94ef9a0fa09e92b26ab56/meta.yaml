@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Desktop/t1_intro_ml/riesgo_diabetes/notebooks/mlruns/224451555860977686/78a2579216a94ef9a0fa09e92b26ab56/artifacts
+end_time: 1726539189258
+entry_point_name: ''
+experiment_id: '224451555860977686'
+lifecycle_stage: active
+run_id: 78a2579216a94ef9a0fa09e92b26ab56
+run_name: Gradient Boosting Classifier
+run_uuid: 78a2579216a94ef9a0fa09e92b26ab56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726539188905
+status: 3
+tags: []
+user_id: Juan Guzman

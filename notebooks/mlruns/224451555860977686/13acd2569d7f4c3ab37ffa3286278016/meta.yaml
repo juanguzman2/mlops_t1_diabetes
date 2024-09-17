@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Desktop/t1_intro_ml/riesgo_diabetes/notebooks/mlruns/224451555860977686/13acd2569d7f4c3ab37ffa3286278016/artifacts
+end_time: 1726539190414
+entry_point_name: ''
+experiment_id: '224451555860977686'
+lifecycle_stage: active
+run_id: 13acd2569d7f4c3ab37ffa3286278016
+run_name: Extra Trees Classifier
+run_uuid: 13acd2569d7f4c3ab37ffa3286278016
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726539190134
+status: 3
+tags: []
+user_id: Juan Guzman
